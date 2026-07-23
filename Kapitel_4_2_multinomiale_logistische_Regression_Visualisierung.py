@@ -1,4 +1,4 @@
-# in diesem Code werden die Ergebnisse des Skripts "multinominale_logistische_Regression.py" manuell übertragen und visualisiert
+# in diesem Code werden die Ergebnisse des Skripts "multinoinale_logistische_Regression.py" manuell übertragen und visualisiert
 
 import pandas as pd
 import numpy as np
